@@ -4,6 +4,10 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![macOS](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](https://www.apple.com/macos/)
 
+
+https://github.com/user-attachments/assets/fb293e54-0795-434f-a811-7f850d36619f
+
+
 > ⚠️ **Development Notice**: This project was developed using Cursor AI without human code review. It's provided for educational and experimental purposes only. Please use with caution in production environments and conduct thorough testing before deployment.
 
 A Model Context Protocol (MCP) server that enables AI assistants to control Keynote presentations through AppleScript automation.
